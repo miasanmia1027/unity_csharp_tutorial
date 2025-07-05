@@ -1,1 +1,6 @@
-unity
+unity/trash_flight/Assets/*
+!unity/trash_flight/Assets/prefabs
+!unity/trash_flight/Assets/Scenes
+!unity/trash_flight/Assets/sprits
+!unity/trash_flight/Assets/scripts
+unity/trash_flight/*
